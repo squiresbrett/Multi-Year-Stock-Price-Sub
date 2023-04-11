@@ -1,2 +1,4 @@
 # Multi-Year-Stock-Price-Sub
 A subroutine that loops through multiple sheets of data that returns stock data in a clean, concise manner. 
+
+During the process of writing this code, I used a couple of external resources to help me with this assignment. I got together with a study group on saturday and we just shared ideas, but not too much of code sharing. The biggest resource I used was surprisingly google, and Microsoft's website that offers tutorials on excel. Eventually, with a lot of trial and error, I was able to create some code that actually ran. The only issues I had when writing was defining some of the variables like "Tickercount = 2," as well as finding the inital percentage change. I did also use a different was of formatting using cells rather than ranges, just because it felt a bit more readable on my end.
